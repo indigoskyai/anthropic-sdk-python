@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.116.1 (2026-07-02)
+
+Full Changelog: [v0.116.0...v0.116.1](https://github.com/anthropics/anthropic-sdk-python/compare/v0.116.0...v0.116.1)
+
+### Chores
+
+* **docs:** small updates to field descriptions ([75d8dcc](https://github.com/anthropics/anthropic-sdk-python/commit/75d8dcc0ac8cb381fa327a61a9ac84022b3a1677))
+
 ## 0.116.0 (2026-07-02)
 
 Full Changelog: [v0.115.1...v0.116.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.115.1...v0.116.0)
